@@ -18,9 +18,13 @@ A Streamlit-based AI assistant that offers parenting tips, baby safety guidance,
 - gTTS (Google Text-to-Speech)
 - Prompt Engineering
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🚀 Demo
 
 [![Open in Hugging Face Spaces](https://img.shields.io/badge/Launch-Hugging%20Face-blue?logo=huggingface)](https://huggingface.co/chat/assistants/perfect-advisor)
+
+> ⚠️ Note: The original chatbot (Perfect Advisor) used in this project was hosted on Hugging Face and is now retired. The app structure and prompt design remain intact and can be adapted to any LLM backend.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📂 File Structure
 
